@@ -1,0 +1,11 @@
+{
+  "name": "Employee Attendance System",
+  "description": "Highly secure employee attendance web system in Khmer with strict geofencing protection and live front-camera liveness verification.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
